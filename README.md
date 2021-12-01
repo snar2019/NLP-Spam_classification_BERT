@@ -1,6 +1,6 @@
 # NLP-Prjects
 
-## Email Spam Detection Using BERT in Tensorflow and Keras
+## Email Spam Detection Using BERT with Tensorflow & Keras
 #### Using BERT and Tensorflow 2.0, we will write simple code to classify emails as spam or not spam. BERT will be used to generate sentence encoding for all emails and after that we will use a simple neural network with one drop out layer and one output layer. 
 
 ### The Pipeline Overview for Spam Detection Using BERT
