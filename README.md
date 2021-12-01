@@ -24,6 +24,9 @@
 
 #### Here is a general visualization of the flow of logic:
 
+![alt text](https://editor.analyticsvidhya.com/uploads/91446MODEL%20PIPELINE.PNG)
+
+
 ## Loading Dependencies
 #### Tensorflow_hub: Place where all TensorFlow pre-trained models are stored.
 #### Tensorflow: For model creation
